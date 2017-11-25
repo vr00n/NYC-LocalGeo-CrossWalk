@@ -50,9 +50,9 @@ This dataset could help answer questions like this more easily while also reduci
 
 **How was this done?**
 
-I combined all the shapefiles from NYC.gov's [Political and Administrative Districts - Download and Metadata](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page) using QGIS's "Join attributes by location" and performing an Interesection operation. The result was an attribute table that work as a relationship file to connect all the intersecting geographies.
+I combined all the shapefiles from NYC.gov's [Political and Administrative Districts - Download and Metadata](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page) using QGIS's "Join attributes by location" and performing an Interesection operation. The result was an attribute table that works as a relationship file to connect all the intersecting geographies.
 
 
-Here is a similar crosswalk visualized for US Census Data:
+Here is a similar relationship file visualized for US Census Data:
 
 ![enter image description here](http://mcdc.missouri.edu/geography/sumlevs/censusgeochart.png)
