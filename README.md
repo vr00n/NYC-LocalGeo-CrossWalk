@@ -4,6 +4,7 @@ A single file that links up all the local geographies in New York City.
 This is something that I've been meaning to do for a very long.
 
 **What is this?**
+
 A single csv file that *walks* across all of New York City's local geographies. This file links up the following geographies in a single tabulated file:
 
  - Borough Boundaries 
@@ -26,6 +27,7 @@ A single csv file that *walks* across all of New York City's local geographies. 
  - U.S. Congressional Districts 
 
 **Why do we need this?**
+
 This dataset would help answer questions like:
 
     In New York City:
