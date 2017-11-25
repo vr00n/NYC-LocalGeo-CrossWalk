@@ -1,7 +1,8 @@
 # NYC-LocalGeo-CrossWalk
-*This is something that I've been meaning to do for a very long.*
+*This is something that I've been meaning to do for a very long time. Hope it serves well.*
 
 A single file that links up all the local geographies in New York City.
+[Link to Carto Map with same data](https://nyu.carto.com/u/varun-cusp2/builder/8ba55666-2289-4206-8165-60fc4601e35c/embed)
 
 **What is this?**
 
