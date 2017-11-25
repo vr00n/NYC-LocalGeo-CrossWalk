@@ -31,7 +31,7 @@ A single csv file that *walks* across all of New York City's local geographies. 
 This dataset would help answer questions like:
 
     In New York City:
-	    How many census Tracts are located in School District 31?
+	    How many and which Census Tracts are located in School District 31?
 	    AND 
 	    Which Fire District is serviced by this School District?
 	    AND 
