@@ -4,6 +4,7 @@
 A single relationship file that links up all the local geographies in New York City.
 
 [Link to Carto Map with same data](https://nyu.carto.com/u/varun-cusp2/builder/8ba55666-2289-4206-8165-60fc4601e35c/embed)
+[Link to Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1YkNk0JlVNrJehoDvbyodd0zkqyh19MkRmqaYV6CRyDLFwquuv0VbJ9iY2UeormzFZZ3Z0k6dkUmO/pubhtml#)
 
 **What is this?**
 
