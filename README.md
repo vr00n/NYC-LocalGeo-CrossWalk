@@ -50,7 +50,10 @@ This dataset could help answer questions like this more easily while also reduci
 
 **How was this done?**
 
-I combined all the shapefiles from NYC.gov's [Political and Administrative Districts - Download and Metadata](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page) using QGIS's "Join attributes by location" and performing an Interesection operation. The result was an attribute table that works as a relationship file to connect all the intersecting geographies.
+I combined all the shapefiles from NYC.gov's [Political and Administrative Districts - Download and Metadata](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page) (only used the Clipped to Shoreline shapefiles) using QGIS's "Join attributes by location" and then performing an Interesection operation on each shapefile. 
+
+The result was an attribute table that works as a relationship file to connect all the intersecting geographies.
+Shape Area and Lengths were removed from the resulting attribute table.
 
 
 Here is a similar relationship file visualized for US Census Data:
