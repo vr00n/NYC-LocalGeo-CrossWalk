@@ -7,7 +7,7 @@ A single relationship file that links up all the local geographies in New York C
 
 [Link to Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vS1YkNk0JlVNrJehoDvbyodd0zkqyh19MkRmqaYV6CRyDLFwquuv0VbJ9iY2UeormzFZZ3Z0k6dkUmO/pubhtml#)
 
-[Using CARTO's SQL API to expose this data programmatically](https://varun-cusp2.carto.com/api/v2/sql?q=SELECT%20*%20FROM%20master_crosswalk_nad83%20where%20ST_Contains(the_geom,%20ST_GeomFromText(%27POINT(-73.952686%2040.775745)%27,4326)))
+[Using CARTO's SQL API to expose this data programmatically](https://varun-cusp2.carto.com/api/v2/sql?q=SELECT%20*%20FROM%20master_crosswalk_nad83%20where%20ST_Contains(the_geom,%20ST_GeomFromText(%27POINT(-73.952686%2040.775745)%27,4326))) This allows you to query any point and retrieve all the local geographies that the point lies in.
 
 **What is this?**
 
